@@ -1,6 +1,6 @@
 **Neema and Peter's Awesome Page!**
 
-*and just so you know, we are awesome too*
+*and just so you know, we are kinda awesome too*
 
 `awesome_page.md`
 
